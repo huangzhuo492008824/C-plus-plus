@@ -1,0 +1,9 @@
+安装：
+sudo add-apt-repository ppa:aitjcize/manpages-cpp
+sudo apt-get update
+sudo apt-get install manpages-cpp
+cppman -c
+使用：
+cppman cout
+cppman iterator
+

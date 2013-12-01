@@ -1,0 +1,4 @@
+main.cpp: In function ‘int main()’:
+main.cpp:33: error: no matching function for call to ‘People::People()’
+people.h:12: note: candidates are: People::People(int, const char*)
+people.h:3: note:                 People::People(const People&)
